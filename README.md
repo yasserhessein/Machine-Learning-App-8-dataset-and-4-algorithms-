@@ -1,11 +1,7 @@
-## The Machine Learning App with 8 dataset and 4 algorithms By Yasir Huusein Shakir
+### The Machine Learning App with 8 dataset and 4 algorithms By Yasir Huusein Shakir
 
 
-
-
-
-
-
+* Link video
 
 [![](https://blog.jcharistech.com/wp-content/uploads/2021/03/streamlit_themes_customize_streamlit_jcharistech.png)](https://www.youtube.com/watch?v=3i_6EslIjiQ&t=18)
 
