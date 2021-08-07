@@ -8,6 +8,10 @@
 
 
 
+<img src="https://blog.jcharistech.com/wp-content/uploads/2021/03/streamlit_themes_customize_streamlit_jcharistech.png" width="300px">
+
+
+
 The Machine Learning App with 8 dataset and 4 algorithms By Yasir Huusein Shakir
 
 version 0.0.1
