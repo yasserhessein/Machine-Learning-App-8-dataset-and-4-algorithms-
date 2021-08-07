@@ -8,7 +8,7 @@
 
 
 
-<img src="https://blog.jcharistech.com/wp-content/uploads/2021/03/streamlit_themes_customize_streamlit_jcharistech.png" width="300px">
+<img src="https://blog.jcharistech.com/wp-content/uploads/2021/03/streamlit_themes_customize_streamlit_jcharistech.png" width="600px">
 
 
 
