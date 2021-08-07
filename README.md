@@ -3,7 +3,7 @@
 
 * Link video
 
-[![]](https://www.youtube.com/watch?v=3i_6EslIjiQ&t=18)
+[![Here]](https://www.youtube.com/watch?v=3i_6EslIjiQ&t=18)
 
 
 
